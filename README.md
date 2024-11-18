@@ -5,7 +5,7 @@
 # Deskripsi Aplikasi
 Siasi merupakan aplikasi absensi siswa yang dapat menjadi solusi inovatif untuk mengelola kehadiran siswa secara efektif dan efisien.Tujuan utama dalam pengembangan aplikasi absensi siswa ini adalah untuk meningkatkan efisiensi dan akurasi dalam pengelolaan data kehadiran siswa.Dengan adanya kecanggihan teknologi terkini menjadikan aplikasi ini penting untuk ada di lingkungan sekolah
 
-# Fungsi Aplikasi 
+# Fungsi unggulan siasi
 🥇Terhubung dengan google maps yang real time
 🥈Notifikasi keberhasilan absensi
 🥉Akses foto selfie
