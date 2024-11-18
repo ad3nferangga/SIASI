@@ -1,11 +1,12 @@
 # SIASI (Absensi siswa)
 
 # Poster
+![Blue Modern Gradient Smartphone Sale Instagram Post (1)](https://github.com/user-attachments/assets/dc8b5f00-bf81-47c4-be64-95c3451b9845)
 
 # Deskripsi Aplikasi
 Siasi merupakan aplikasi absensi siswa yang dapat menjadi solusi inovatif untuk mengelola kehadiran siswa secara efektif dan efisien.Tujuan utama dalam pengembangan aplikasi absensi siswa ini adalah untuk meningkatkan efisiensi dan akurasi dalam pengelolaan data kehadiran siswa.Dengan adanya kecanggihan teknologi terkini menjadikan aplikasi ini penting untuk ada di lingkungan sekolah
 
-# Fungsi unggulan siasi
+# Fungsi unggulan SIASI
 🥇Terhubung dengan google maps yang real time
 🥈Notifikasi keberhasilan absensi
 🥉Akses foto selfie
