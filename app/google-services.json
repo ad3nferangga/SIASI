@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671059180933",
+    "project_id": "absen-apps-650a0",
+    "storage_bucket": "absen-apps-650a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671059180933:android:38d12fb05c16f1f6e858ec",
+        "android_client_info": {
+          "package_name": "com.apps.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCMr-G-wfGlnvbS6_89hZpMGcAQD7Q6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
