@@ -22,4 +22,5 @@ Jangan lupa kepoin juga program studi kami yang dapat di akses pada :
 (https://pendidikan-ti.ft.unesa.ac.id/) dari [Fakultas Teknik](https://ft.unesa.ac.id/) di [Universitas Negeri Surabaya](https://unesa.ac.id/)
 
 # VIEW APLIKASI
-![DESAIN](https://github.com/user-attachments/assets/4ae741e1-db08-4707-a7b2-c6aee098703b)
+![DESAIN](![Rectangle 12](https://github.com/user-attachments/assets/c4201162-6892-4c13-b88e-2adc81a668dc)
+)
